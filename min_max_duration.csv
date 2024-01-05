@@ -1,0 +1,20 @@
+Source,Destination,Total_Stops,Min_Duration_minute,Max_Duration_minute
+Banglore,New Delhi,4,1770,1770
+Mumbai,Hyderabad,3,1175,1775
+Kolkata,Banglore,3,805,2115
+Banglore,New Delhi,3,685,2120
+Delhi,Cochin,3,565,2280
+Delhi,Cochin,2,425,2860
+Banglore,New Delhi,2,420,2420
+Kolkata,Banglore,2,335,2480
+Delhi,Cochin,1,265,1685
+Banglore,New Delhi,1,240,1730
+Kolkata,Banglore,1,215,1750
+Mumbai,Hyderabad,1,195,1610
+Delhi,Cochin,0,170,230
+Banglore,New Delhi,0,155,180
+Banglore,Delhi,0,155,185
+Mumbai,Hyderabad,2,150,2245
+Kolkata,Banglore,0,140,170
+Chennai,Kolkata,0,135,165
+Mumbai,Hyderabad,0,75,95
