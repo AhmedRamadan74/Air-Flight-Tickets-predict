@@ -10,7 +10,7 @@ import math
 import datetime
 
 # layout
-st.set_page_config(page_title="Air Flight Tickets", layout="wide")
+st.set_page_config(page_title="Predict Air Flight Tickets Price", layout="wide")
 df = pd.read_csv("clean_data.csv")
 df_min_max_duration = pd.read_csv("min_max_duration.csv")
 
