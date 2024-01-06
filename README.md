@@ -12,7 +12,7 @@ Chennai To Kolkata
 After analyze data and know what is the important features that influence in air flight ticket price , Now i can predict this ticket price.
 
 
-[Link website of  analysis deployment](https://air-flight-tickets.streamlit.app/)
+[Link website of  analysis deployment](https://air-flight-tickets-analysis-wbeayl7ftbhhyq8ulzdvzs.streamlit.app/)
 
 [Link website of  Predict ticket price deployment](https://air-flight-tickets-predict.streamlit.app/)
 
